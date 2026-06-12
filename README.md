@@ -1,21 +1,22 @@
 # Matúš Bača - náhľad webu
 
-Toto je statická verzia webu pripravená na rýchly náhľad cez GitHub Pages.
+Toto je plochá statická verzia webu pripravená na rýchly náhľad cez GitHub Pages.
 
-## Ako to nahrať na nový GitHub účet
+## Ako to nahrať na GitHub
 
-1. Vytvor nový GitHub účet iba na náhľady.
-2. Vytvor nové repository, napríklad `matusbaca-preview`.
-3. Nahraj celý obsah tohto priečinka `matusbaca-redesign` priamo do koreňa repository.
-4. V repository otvor `Settings`.
-5. Vľavo klikni `Pages`.
-6. V časti `Build and deployment` nastav:
+1. Otvor repository `matusbaca-preview`.
+2. Klikni `Add file` -> `Upload files`.
+3. Nahraj celý obsah priečinka `matusbaca-github-flat-upload` priamo do koreňa repository.
+4. Commitni upload.
+5. V repository otvor `Settings`.
+6. Vľavo klikni `Pages`.
+7. V časti `Build and deployment` nastav:
    - Source: `Deploy from a branch`
    - Branch: `main`
    - Folder: `/root`
-7. Klikni `Save`.
-8. Po chvíli GitHub vytvorí link v tvare:
-   `https://tvoj-ucet.github.io/matusbaca-preview/`
+8. Klikni `Save`.
+9. Po chvíli GitHub vytvorí link:
+   `https://storagestoragesk-lang.github.io/matusbaca-preview/`
 
 ## Dôležité
 
